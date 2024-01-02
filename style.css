@@ -1,0 +1,18 @@
+img {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    gap: 8px;
+    color: #e5e7eb;
+    border: 2px solid black;
+    font-size: 18px;
+}
+.left, .right {
+    display: flex;
+    align-content: center;
+}
