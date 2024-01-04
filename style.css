@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: "roboto", sans-serif;
 }
 img {
     color: #f9faf8;
@@ -27,8 +28,5 @@ a {
     gap: 16px;
     list-style-type: none;
 }
-.left, .right {
-    display: flex;
-    align-content: center;
-}
+
 
